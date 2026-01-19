@@ -1,0 +1,145 @@
+/* Ace Attorney Pairing Generator - Main Stylesheet */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #001774;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.logo {
+  vertical-align: middle;
+  margin-bottom: 25px;
+}
+
+.container {
+  background: #002157;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  padding: 40px;
+  max-width: 650px;
+  width: 100%;
+  border: 3px solid #9c9c9c;
+}
+
+h1 {
+  text-align: center;
+  color: #F8A818;
+  margin-bottom: 30px;
+  font-size: 28px;
+}
+
+.pairing {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.character {
+  text-align: center;
+}
+
+.character-image {
+  width: 80px;
+  height: 80px;
+  background: #f0f0f0;
+  border-radius: 8px;
+  margin: 0 auto 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #ddd;
+  overflow: hidden;
+}
+
+.character-image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.character-name {
+  font-weight: lighter;
+  color: #DDDDDD;
+  font-size: 16px;
+  word-wrap: break-word;
+  max-width: 100%;
+  font-stretch: condensed;
+}
+
+.divider {
+  text-align: center;
+  font-size: 24px;
+  color: #667eea;
+  border: none;
+  margin: 20px 0;
+}
+
+.divider img {
+  position: relative;
+  top: -13px;
+  padding: 0 10px;
+}
+
+.controls {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+label {
+  font-weight: bold;
+  color: #F8A818;
+  margin-bottom: 8px;
+  display: block;
+  width: 100%;
+}
+
+select {
+  padding: 10px 15px;
+  border: 2px solid #667eea;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  flex: 1;
+  min-width: 200px;
+}
+
+button {
+  padding: 10px 30px;
+  background: #667eea;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+  white-space: nowrap;
+}
+
+button:hover {
+  background: #764ba2;
+}
+
+.error {
+  background: #ffebee;
+  color: #c62828;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  border-left: 4px solid #c62828;
+}

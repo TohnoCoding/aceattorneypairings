@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ace Attorney Pairing Generator</title>
+  <link rel="stylesheet" href="./assets/main.css">
+</head>
+<body>
+  <div class="container">
+    <h1>💕 The <img src="./assets/aceattorney.png" class="logo" /> Pairing Generator</h1>
+
+    <div id="error"></div>
+    <div id="pairing" class="pairing" style="display: none;">
+      <div class="character">
+        <div class="character-image">
+          <img id="char1Image" alt="">
+        </div>
+        <div class="character-name" id="char1Name"></div>
+      </div>
+      <div class="divider" style="background-color:transparent!important;"><img src="./assets/love.png" /></div>
+      <div class="character">
+        <div class="character-image">
+          <img id="char2Image" alt="">
+        </div>
+        <div class="character-name" id="char2Name"></div>
+      </div>
+    </div>
+    <hr class="divider" />
+    <div class="controls">
+      <label for="pairingSelector">Select roster to pick from:</label>
+      <select id="pairingSelector">
+        <!-- All Characters -->
+        <option value="all-normal">Everyone - M/F</option>
+        <option value="all-MM">Everyone - M/M</option>
+        <option value="all-FF">Everyone - F/F</option>
+        <!-- Phoenix Wwright 1 -->
+        <option value="pw1-normal">PW1 - M/F</option>
+        <option value="pw1-MM">PW1 - M/M</option>
+        <option value="pw1-FF">PW1 - F/F</option>
+        <!-- Phoenix Wwright 2 -->
+        <option value="pw2-normal">PW2 - M/F</option>
+        <option value="pw2-MM">PW2 - M/M</option>
+        <option value="pw2-FF">PW2 - F/F</option>
+        <!-- Phoenix Wright 3 -->
+        <option value="pw3-normal">PW3 - M/F</option>
+        <option value="pw3-MM">PW3 - M/M</option>
+        <option value="pw3-FF">PW3 - F/F</option>
+        <!-- Investigations 1 -->
+        <option value="me1-normal">Investigations 1 - M/F</option>
+        <option value="me1-MM">Investigations 1 - M/M</option>
+        <option value="me1-FF">Investigations 1 - F/F</option>
+        <!-- Apollo Justice 1 -->
+        <option value="aj1-normal">Apollo Justice - M/F</option>
+        <option value="aj1-MM">Apollo Justice - M/M</option>
+        <option value="aj1-FF">Apollo Justice - F/F</option>
+        <!-- All Games -->
+        <option value="game-normal">All Games - M/F</option>
+        <option value="game-MM">All Games - M/M</option>
+        <option value="game-FF">All Games - F/F</option>
+        <!-- Manga -->
+        <option value="manga-normal">Manga Only - M/F</option>
+        <option value="manga-MM">Manga Only - M/M</option>
+        <option value="manga-FF">Manga Only - F/F</option>
+      </select>
+      <button onclick="generatePairing()">Generate New Pairing</button>
+    </div>
+  </div>
+
+  <script src="./assets/main.js"></script>
+
+</body>
+</html>
