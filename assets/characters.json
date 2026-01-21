@@ -1776,5 +1776,140 @@
       "game",
       "aj2"
     ]
+  },
+  {
+    "name": "Solomon Starbuck",
+    "image": "aj2solomon",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Clay Terran",
+    "image": "aj2clay",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Yuri Cosmos",
+    "image": "aj2yuri",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Aura Blackquill",
+    "image": "aj2aura",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Clonco",
+    "image": "aj2clonco",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Ponco",
+    "image": "aj2ponco",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Metys Cykes",
+    "image": "aj2metys",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Sasha Buckler",
+    "image": "aj2sasha",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Ora \"Orla\" Shipley",
+    "image": "aj2orla",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Jack Shipley",
+    "image": "aj2jack",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Norma DePlume",
+    "image": "aj2norma",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Marlon Rimes",
+    "image": "aj2marlon",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Rifle",
+    "image": "aj2rifle",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Herman Crab",
+    "image": "aj2herman",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Azura Summers",
+    "image": "aj2azura",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
   }
 ]
