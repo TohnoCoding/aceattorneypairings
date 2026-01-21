@@ -3,6 +3,7 @@
     "name": "Phoenix Wright",
     "image": "phoenix",
     "gender": "male",
+    "characterId": "phoenix-wright",
     "tags": [
       "game",
       "pw1",
@@ -15,6 +16,7 @@
     "name": "Phoenix Wright",
     "image": "naruhobo",
     "gender": "male",
+    "characterId": "phoenix-wright",
     "tags": [
       "game",
       "aj1"
@@ -24,6 +26,7 @@
     "name": "Luke Atmey",
     "image": "aiga",
     "gender": "male",
+    "characterId": "luke-atmey",
     "tags": [
       "game",
       "pw2"
@@ -33,6 +36,7 @@
     "name": "Acro",
     "image": "acro",
     "gender": "male",
+    "characterId": "acro",
     "tags": [
       "game",
       "pw2"
@@ -42,6 +46,7 @@
     "name": "Ron DeLite",
     "image": "amasugi",
     "gender": "male",
+    "characterId": "ron-delite",
     "tags": [
       "game",
       "pw2"
@@ -51,6 +56,7 @@
     "name": "Bat",
     "image": "bat",
     "gender": "male",
+    "characterId": "bat",
     "tags": [
       "game",
       "pw2"
@@ -60,6 +66,7 @@
     "name": "Gatewater Hotel Bellboy",
     "image": "bellboy",
     "gender": "male",
+    "characterId": "gatewater-hotel-bellboy",
     "tags": [
       "game",
       "pw1",
@@ -70,6 +77,7 @@
     "name": "Ben Woodman",
     "image": "ben",
     "gender": "male",
+    "characterId": "ben-woodman",
     "tags": [
       "game",
       "pw2"
@@ -79,6 +87,7 @@
     "name": "Trilo Quist",
     "image": "trilo",
     "gender": "male",
+    "characterId": "trilo-quist",
     "tags": [
       "game",
       "pw2"
@@ -88,6 +97,7 @@
     "name": "Kane Bullard",
     "image": "busujima",
     "gender": "male",
+    "characterId": "kane-bullard",
     "tags": [
       "game",
       "pw2"
@@ -97,6 +107,7 @@
     "name": "Cody Hackins",
     "image": "cody",
     "gender": "male",
+    "characterId": "cody-hackins",
     "tags": [
       "game",
       "pw1"
@@ -106,6 +117,7 @@
     "name": "Dustin Prince",
     "image": "dustin",
     "gender": "male",
+    "characterId": "dustin-prince",
     "tags": [
       "game",
       "pw2"
@@ -115,18 +127,21 @@
     "name": "Miles Edgeworth",
     "image": "edgeworth",
     "gender": "male",
+    "characterId": "miles-edgeworth",
     "tags": [
       "game",
       "pw1",
       "pw2",
       "pw3",
-      "me1"
+      "me1",
+      "me2"
     ]
   },
   {
     "name": "Damon Gant",
     "image": "gant",
     "gender": "male",
+    "characterId": "damon-gant",
     "tags": [
       "game",
       "pw1"
@@ -136,6 +151,7 @@
     "name": "Godot",
     "image": "godo",
     "gender": "male",
+    "characterId": "godot",
     "tags": [
       "game",
       "pw3"
@@ -145,6 +161,7 @@
     "name": "Bruce Goodman",
     "image": "goodman",
     "gender": "male",
+    "characterId": "bruce-goodman",
     "tags": [
       "game",
       "pw1"
@@ -154,6 +171,7 @@
     "name": "Gregory Edgeworth",
     "image": "gregory",
     "gender": "male",
+    "characterId": "gregory-edgeworth",
     "tags": [
       "game",
       "pw1",
@@ -164,6 +182,7 @@
     "name": "Turner Grey",
     "image": "grey",
     "gender": "male",
+    "characterId": "turner-grey",
     "tags": [
       "game",
       "pw2"
@@ -173,6 +192,7 @@
     "name": "Marvin Grossberg",
     "image": "grossberg",
     "gender": "male",
+    "characterId": "marvin-grossberg",
     "tags": [
       "game",
       "pw1",
@@ -183,18 +203,21 @@
     "name": "Dick Gumshoe",
     "image": "gumshoe",
     "gender": "male",
+    "characterId": "dick-gumshoe",
     "tags": [
       "game",
       "pw1",
       "pw2",
       "pw3",
-      "me1"
+      "me1",
+      "me2"
     ]
   },
   {
     "name": "Jack Hammer",
     "image": "hammer",
     "gender": "male",
+    "characterId": "jack-hammer",
     "tags": [
       "game",
       "pw1"
@@ -204,6 +227,7 @@
     "name": "Robert Hammond",
     "image": "hammond",
     "gender": "male",
+    "characterId": "robert-hammond",
     "tags": [
       "game",
       "pw1"
@@ -213,6 +237,7 @@
     "name": "Hatsurou Kimura",
     "image": "hatsurou",
     "gender": "male",
+    "characterId": "hatsurou-kimura",
     "tags": [
       "manga"
     ]
@@ -221,6 +246,7 @@
     "name": "Jean Armstrong",
     "image": "hondobou",
     "gender": "male",
+    "characterId": "jean-armstrong",
     "tags": [
       "game",
       "pw3"
@@ -230,6 +256,7 @@
     "name": "Director Hotti",
     "image": "hotti",
     "gender": "male",
+    "characterId": "director-hotti",
     "tags": [
       "game",
       "pw2",
@@ -240,6 +267,7 @@
     "name": "Victor Kudo",
     "image": "igarashi",
     "gender": "male",
+    "characterId": "victor-kudo",
     "tags": [
       "game",
       "pw3"
@@ -249,6 +277,7 @@
     "name": "Jake Marshall",
     "image": "jake",
     "gender": "male",
+    "characterId": "jake-marshall",
     "tags": [
       "game",
       "pw1"
@@ -258,6 +287,7 @@
     "name": "Jirou Kimura",
     "image": "jirou",
     "gender": "male",
+    "characterId": "jirou-kimura",
     "tags": [
       "manga"
     ]
@@ -266,6 +296,7 @@
     "name": "Juan Corrida",
     "image": "juan",
     "gender": "male",
+    "characterId": "juan-corrida",
     "tags": [
       "game",
       "pw2"
@@ -275,6 +306,7 @@
     "name": "The Judge's Brother",
     "image": "judge2",
     "gender": "male",
+    "characterId": "judge2",
     "tags": [
       "game",
       "pw3"
@@ -284,6 +316,7 @@
     "name": "Diego Armando",
     "image": "kaminogi",
     "gender": "male",
+    "characterId": "diego-armando",
     "tags": [
       "game",
       "pw3"
@@ -293,6 +326,7 @@
     "name": "Akamune Komori",
     "image": "komori",
     "gender": "male",
+    "characterId": "akamune-komori",
     "tags": [
       "manga"
     ]
@@ -301,6 +335,7 @@
     "name": "Manfred von Karma",
     "image": "karma",
     "gender": "male",
+    "characterId": "manfred-von-karma",
     "tags": [
       "game",
       "pw1",
@@ -311,6 +346,7 @@
     "name": "Larry Butz",
     "image": "larry",
     "gender": "male",
+    "characterId": "larry-butz",
     "tags": [
       "game",
       "pw1",
@@ -323,6 +359,7 @@
     "name": "Matt Engarde",
     "image": "matt",
     "gender": "male",
+    "characterId": "matt-engarde",
     "tags": [
       "game",
       "pw2"
@@ -332,6 +369,7 @@
     "name": "Maximillion Galactica",
     "image": "max",
     "gender": "male",
+    "characterId": "maximillion-galactica",
     "tags": [
       "game",
       "pw2"
@@ -341,6 +379,7 @@
     "name": "Mike Meekins",
     "image": "meekins",
     "gender": "male",
+    "characterId": "mike-meekins",
     "tags": [
       "game",
       "pw1",
@@ -352,6 +391,7 @@
     "name": "Missile the Dog",
     "image": "missile",
     "gender": "male",
+    "characterId": "missile-the-dog",
     "tags": [
       "game",
       "pw1"
@@ -361,6 +401,7 @@
     "name": "Laurence \"Moe\" Curls",
     "image": "moe",
     "gender": "male",
+    "characterId": "laurence-moe-curls",
     "tags": [
       "game",
       "pw2"
@@ -370,6 +411,7 @@
     "name": "Neil Marshall",
     "image": "neil",
     "gender": "male",
+    "characterId": "neil-marshall",
     "tags": [
       "game",
       "pw1"
@@ -379,6 +421,7 @@
     "name": "Doug Swallow",
     "image": "nonda",
     "gender": "male",
+    "characterId": "doug-swallow",
     "tags": [
       "game",
       "pw3"
@@ -388,6 +431,7 @@
     "name": "Glen Elg",
     "image": "oka",
     "gender": "male",
+    "characterId": "glen-olg",
     "tags": [
       "game",
       "pw3"
@@ -397,6 +441,7 @@
     "name": "Terry Fawles",
     "image": "onamida",
     "gender": "male",
+    "characterId": "terry-fawles",
     "tags": [
       "game",
       "pw3"
@@ -406,6 +451,7 @@
     "name": "Winston Payne",
     "image": "payne1",
     "gender": "male",
+    "characterId": "winston-payne",
     "tags": [
       "game",
       "pw1",
@@ -416,6 +462,7 @@
     "name": "Winston Payne",
     "image": "payne4",
     "gender": "male",
+    "characterId": "winston-payne",
     "tags": [
       "game",
       "aj1"
@@ -425,6 +472,7 @@
     "name": "Winston Payne",
     "image": "payne2",
     "gender": "male",
+    "characterId": "winston-payne",
     "tags": [
       "game",
       "pw3"
@@ -434,6 +482,7 @@
     "name": "Will Powers",
     "image": "powers",
     "gender": "male",
+    "characterId": "will-powers",
     "tags": [
       "game",
       "pw1"
@@ -443,6 +492,7 @@
     "name": "Will Powers",
     "image": "powers2",
     "gender": "male",
+    "characterId": "will-powers",
     "tags": [
       "game",
       "pw2"
@@ -452,6 +502,7 @@
     "name": "Redd White",
     "image": "redd",
     "gender": "male",
+    "characterId": "redd-white",
     "tags": [
       "game",
       "pw1"
@@ -461,6 +512,7 @@
     "name": "Russell Berry",
     "image": "russel",
     "gender": "male",
+    "characterId": "russell-berry",
     "tags": [
       "game",
       "pw2"
@@ -470,6 +522,7 @@
     "name": "Frank Sahwit",
     "image": "sahwit",
     "gender": "male",
+    "characterId": "frank-sahwit",
     "tags": [
       "game",
       "pw1"
@@ -479,6 +532,7 @@
     "name": "Sal Manella",
     "image": "sal",
     "gender": "male",
+    "characterId": "sal-manella",
     "tags": [
       "game",
       "pw1",
@@ -489,6 +543,7 @@
     "name": "Sasao Komori",
     "image": "sasao",
     "gender": "male",
+    "characterId": "sasao-komori",
     "tags": [
       "manga"
     ]
@@ -497,6 +552,7 @@
     "name": "Shelly De Killer",
     "image": "shelly2",
     "gender": "male",
+    "characterId": "shelly-de-killer",
     "tags": [
       "game",
       "pw2",
@@ -507,6 +563,7 @@
     "name": "Bruto Cadaverini",
     "image": "shikabane",
     "gender": "male",
+    "characterId": "bruto-cadaverini",
     "tags": [
       "game",
       "pw3"
@@ -516,6 +573,7 @@
     "name": "Shinjou Hikaru",
     "image": "shinjou",
     "gender": "male",
+    "characterId": "shinjou-hikaru",
     "tags": [
       "manga"
     ]
@@ -524,6 +582,7 @@
     "name": "Richard Wellington",
     "image": "wellington",
     "gender": "male",
+    "characterId": "richard-wellington",
     "tags": [
       "game",
       "pw2"
@@ -533,6 +592,7 @@
     "name": "Azuchi Yamashiro",
     "image": "yamashiro",
     "gender": "male",
+    "characterId": "azuchi-yamashiro",
     "tags": [
       "manga"
     ]
@@ -541,6 +601,7 @@
     "name": "Yanni Yogi",
     "image": "yanni",
     "gender": "male",
+    "characterId": "yanni-yogi",
     "tags": [
       "game",
       "pw1"
@@ -550,6 +611,7 @@
     "name": "Furio Tigre",
     "image": "zenitora",
     "gender": "male",
+    "characterId": "furio-tigre",
     "tags": [
       "game",
       "pw2"
@@ -559,6 +621,7 @@
     "name": "Kristoph Gavin",
     "image": "garyuu",
     "gender": "male",
+    "characterId": "kristoph-gavin",
     "tags": [
       "game",
       "aj1"
@@ -568,6 +631,7 @@
     "name": "Apollo Justice",
     "image": "odoroki",
     "gender": "male",
+    "characterId": "apollo-justice",
     "tags": [
       "game",
       "aj1"
@@ -577,6 +641,7 @@
     "name": "Guy Eldoon",
     "image": "mugitsura",
     "gender": "male",
+    "characterId": "guy-eldoon",
     "tags": [
       "game",
       "aj1"
@@ -586,6 +651,7 @@
     "name": "Winfred \"Big Wins\" Kitaki",
     "image": "tsunekatsu",
     "gender": "male",
+    "characterId": "winfred-kitaki",
     "tags": [
       "game",
       "aj1"
@@ -595,6 +661,7 @@
     "name": "Machi Tobaye",
     "image": "maki",
     "gender": "male",
+    "characterId": "machi-tobaye",
     "tags": [
       "game",
       "aj1"
@@ -604,6 +671,7 @@
     "name": "Romein LeTouse",
     "image": "romaine",
     "gender": "male",
+    "characterId": "romein-letouse",
     "tags": [
       "game",
       "aj1"
@@ -613,18 +681,22 @@
     "name": "The Judge",
     "image": "4judge",
     "gender": "male",
+    "characterId": "the-judge",
     "tags": [
       "game",
       "pw1",
       "pw2",
       "pw3",
-      "aj1"
+      "aj1",
+      "aj2",
+      "aj3"
     ]
   },
   {
     "name": "Valant Gramarye",
     "image": "baran",
     "gender": "male",
+    "characterId": "valant-gramarye",
     "tags": [
       "game",
       "aj1"
@@ -634,6 +706,7 @@
     "name": "Zak Gramarye",
     "image": "zakku",
     "gender": "male",
+    "characterId": "zak-gramarye",
     "tags": [
       "game",
       "aj1"
@@ -643,6 +716,7 @@
     "name": "Spark Brushel (end quote)",
     "image": "hamigaki",
     "gender": "male",
+    "characterId": "spark-brushel",
     "tags": [
       "game",
       "aj1"
@@ -652,6 +726,7 @@
     "name": "Pal Meraktis",
     "image": "ukari",
     "gender": "male",
+    "characterId": "pal-meraktis",
     "tags": [
       "game",
       "aj1"
@@ -661,6 +736,7 @@
     "name": "Drew Misham",
     "image": "ese",
     "gender": "male",
+    "characterId": "drew-misham",
     "tags": [
       "game",
       "aj1"
@@ -670,6 +746,7 @@
     "name": "Wesley Stickler",
     "image": "kawadzu",
     "gender": "male",
+    "characterId": "wesley-stickler",
     "tags": [
       "game",
       "aj1"
@@ -679,6 +756,7 @@
     "name": "Wocky Kitaki",
     "image": "takita",
     "gender": "male",
+    "characterId": "wocky-kitaki",
     "tags": [
       "game",
       "aj1"
@@ -688,6 +766,7 @@
     "name": "Magnifi Gramarye",
     "image": "tensai",
     "gender": "male",
+    "characterId": "magnifi-gramarye",
     "tags": [
       "game",
       "aj1"
@@ -697,6 +776,7 @@
     "name": "Klavier Gavin",
     "image": "kyouya",
     "gender": "male",
+    "characterId": "klavier-gavin",
     "tags": [
       "game",
       "aj1"
@@ -706,6 +786,7 @@
     "name": "Daryan Crescend",
     "image": "daian",
     "gender": "male",
+    "characterId": "daryan-crescend",
     "tags": [
       "game",
       "aj1"
@@ -715,6 +796,7 @@
     "name": "Shoe the Cat",
     "image": "shoe",
     "gender": "male",
+    "characterId": "shoe-the-cat",
     "tags": [
       "game",
       "pw2"
@@ -724,6 +806,7 @@
     "name": "Regent the Tiger",
     "image": "regent",
     "gender": "male",
+    "characterId": "regent-the-tiger",
     "tags": [
       "game",
       "pw2"
@@ -733,6 +816,7 @@
     "name": "Money the Monkey",
     "image": "money",
     "gender": "male",
+    "characterId": "money-the-monkey",
     "tags": [
       "game",
       "pw2"
@@ -742,6 +826,7 @@
     "name": "Léon the Lion",
     "image": "leon",
     "gender": "male",
+    "characterId": "leon-the-lion",
     "tags": [
       "game",
       "pw2"
@@ -751,6 +836,7 @@
     "name": "Nameless Blue Screens Employee",
     "image": "employee",
     "gender": "male",
+    "characterId": "nameless-blue-screens-employee",
     "tags": [
       "game",
       "pw3"
@@ -760,6 +846,7 @@
     "name": "Manny Coachen",
     "image": "gkmanny",
     "gender": "male",
+    "characterId": "manny-coachen",
     "tags": [
       "game",
       "me1"
@@ -769,6 +856,7 @@
     "name": "Colias Palaeno",
     "image": "gkdamian",
     "gender": "male",
+    "characterId": "colias-palaeno",
     "tags": [
       "game",
       "me1"
@@ -778,6 +866,7 @@
     "name": "Quercus Alba",
     "image": "gkcarnage",
     "gender": "male",
+    "characterId": "quercus-alba",
     "tags": [
       "game",
       "me1"
@@ -787,6 +876,7 @@
     "name": "Ka-Shi Nou",
     "image": "gkakaishi",
     "gender": "male",
+    "characterId": "ka-shi-nou",
     "tags": [
       "game",
       "me1"
@@ -796,6 +886,7 @@
     "name": "Tyrell Badd",
     "image": "gkbadou",
     "gender": "male",
+    "characterId": "tyrell-badd",
     "tags": [
       "game",
       "me1"
@@ -805,6 +896,7 @@
     "name": "Akbey Hicks",
     "image": "gkakbey",
     "gender": "male",
+    "characterId": "akbey-hicks",
     "tags": [
       "game",
       "me1"
@@ -814,6 +906,7 @@
     "name": "Zinc Lablanc II",
     "image": "gkzinc",
     "gender": "male",
+    "characterId": "zinc-lablanc-ii",
     "tags": [
       "game",
       "me1"
@@ -823,6 +916,7 @@
     "name": "Ernest Amano",
     "image": "gkjouichirou",
     "gender": "male",
+    "characterId": "ernest-amano",
     "tags": [
       "game",
       "me1"
@@ -832,6 +926,7 @@
     "name": "Lance Amano",
     "image": "gkhikaru",
     "gender": "male",
+    "characterId": "lance-amano",
     "tags": [
       "game",
       "me1"
@@ -841,6 +936,7 @@
     "name": "Oliver Deacon",
     "image": "gkogura",
     "gender": "male",
+    "characterId": "oliver-deacon",
     "tags": [
       "game",
       "me1"
@@ -850,6 +946,7 @@
     "name": "Byrne Faraday",
     "image": "gkkurou",
     "gender": "male",
+    "characterId": "byrne-faraday",
     "tags": [
       "game",
       "me1"
@@ -859,6 +956,7 @@
     "name": "Deid Mann",
     "image": "gkdeed",
     "gender": "male",
+    "characterId": "deid-mann",
     "tags": [
       "game",
       "me1"
@@ -868,6 +966,7 @@
     "name": "Mack Rell",
     "image": "gktooru",
     "gender": "male",
+    "characterId": "mack-rell",
     "tags": [
       "game",
       "me1"
@@ -877,6 +976,7 @@
     "name": "Jacques Portsman",
     "image": "gkyuuki",
     "gender": "male",
+    "characterId": "jacques-portsman",
     "tags": [
       "game",
       "me1"
@@ -886,6 +986,7 @@
     "name": "Buddy Faith",
     "image": "gkshinji",
     "gender": "male",
+    "characterId": "buddy-faith",
     "tags": [
       "game",
       "me1"
@@ -895,6 +996,7 @@
     "name": "Shi-Long Lang",
     "image": "gkrou",
     "gender": "male",
+    "characterId": "shi-long-lang",
     "tags": [
       "game",
       "me1"
@@ -904,6 +1006,7 @@
     "name": "Adrian Andrews",
     "image": "adrian2",
     "gender": "female",
+    "characterId": "adrian-andrews",
     "tags": [
       "game",
       "pw3"
@@ -913,6 +1016,7 @@
     "name": "Adrian Andrews",
     "image": "adrian",
     "gender": "female",
+    "characterId": "adrian-andrews",
     "tags": [
       "game",
       "pw2"
@@ -922,6 +1026,7 @@
     "name": "Angel Starr",
     "image": "angel",
     "gender": "female",
+    "characterId": "angel-starr",
     "tags": [
       "game",
       "pw1"
@@ -931,6 +1036,7 @@
     "name": "April May",
     "image": "april",
     "gender": "female",
+    "characterId": "april-may",
     "tags": [
       "game",
       "pw1"
@@ -940,6 +1046,7 @@
     "name": "Iris",
     "image": "ayame2",
     "gender": "female",
+    "characterId": "iris",
     "tags": [
       "game",
       "pw3"
@@ -949,6 +1056,7 @@
     "name": "Sister Bikini",
     "image": "bikini",
     "gender": "female",
+    "characterId": "sister-bikini",
     "tags": [
       "game",
       "pw3"
@@ -958,6 +1066,7 @@
     "name": "Celeste Inpax",
     "image": "celeste",
     "gender": "female",
+    "characterId": "celeste-inpax",
     "tags": [
       "game",
       "pw2"
@@ -967,6 +1076,7 @@
     "name": "Dahlia Hawthorne",
     "image": "chinami",
     "gender": "female",
+    "characterId": "dahlia-hawthorne",
     "tags": [
       "game",
       "pw3"
@@ -976,6 +1086,7 @@
     "name": "Cindy Stone",
     "image": "cindy",
     "gender": "female",
+    "characterId": "cindy-stone",
     "tags": [
       "game",
       "pw1"
@@ -985,6 +1096,7 @@
     "name": "Dee Vásquez",
     "image": "dee",
     "gender": "female",
+    "characterId": "dee-vásquez",
     "tags": [
       "game",
       "pw1"
@@ -994,6 +1106,7 @@
     "name": "Elise Deauxnim",
     "image": "elice",
     "gender": "female",
+    "characterId": "elise-deauxnim",
     "tags": [
       "game",
       "pw3"
@@ -1003,6 +1116,7 @@
     "name": "Franziska von Karma",
     "image": "franny",
     "gender": "female",
+    "characterId": "franziska-von-karma",
     "tags": [
       "game",
       "pw2",
@@ -1014,6 +1128,7 @@
     "name": "Franziska von Karma",
     "image": "lolifranny",
     "gender": "female",
+    "characterId": "franziska-von-karma",
     "tags": [
       "me1"
     ]
@@ -1022,6 +1137,7 @@
     "name": "Himeko Komori",
     "image": "himeko",
     "gender": "female",
+    "characterId": "himeko-komori",
     "tags": [
       "manga"
     ]
@@ -1030,6 +1146,7 @@
     "name": "Ini Miney",
     "image": "ini",
     "gender": "female",
+    "characterId": "ini-miney",
     "tags": [
       "game",
       "pw2"
@@ -1039,6 +1156,7 @@
     "name": "Lana Skye",
     "image": "lana",
     "gender": "female",
+    "characterId": "lana-skye",
     "tags": [
       "game",
       "pw1"
@@ -1048,6 +1166,7 @@
     "name": "Lisa Basil",
     "image": "keiko",
     "gender": "female",
+    "characterId": "lisa-basil",
     "tags": [
       "game",
       "pw3"
@@ -1057,6 +1176,7 @@
     "name": "Lotta Hart",
     "image": "lotta",
     "gender": "female",
+    "characterId": "lotta-hart",
     "tags": [
       "game",
       "pw1",
@@ -1067,6 +1187,7 @@
     "name": "Maggey Byrde",
     "image": "maggey2",
     "gender": "female",
+    "characterId": "maggey-byrde",
     "tags": [
       "game",
       "pw3"
@@ -1076,6 +1197,7 @@
     "name": "Maggey Byrde",
     "image": "maggey",
     "gender": "female",
+    "characterId": "maggey-byrde",
     "tags": [
       "game",
       "pw2"
@@ -1085,6 +1207,7 @@
     "name": "Maggey Byrde",
     "image": "gkmaggey",
     "gender": "female",
+    "characterId": "maggey-byrde",
     "tags": [
       "game",
       "me1"
@@ -1094,6 +1217,7 @@
     "name": "Desirée DeLite",
     "image": "mareka",
     "gender": "female",
+    "characterId": "desirée-delite",
     "tags": [
       "game",
       "pw3"
@@ -1103,6 +1227,7 @@
     "name": "Maya Fey",
     "image": "maya",
     "gender": "female",
+    "characterId": "maya-fey",
     "tags": [
       "game",
       "pw1",
@@ -1114,6 +1239,7 @@
     "name": "Mia Fey",
     "image": "mia",
     "gender": "female",
+    "characterId": "mia-fey",
     "tags": [
       "game",
       "pw1",
@@ -1125,6 +1251,7 @@
     "name": "Mimi Miney",
     "image": "mimi",
     "gender": "female",
+    "characterId": "mimi-miney",
     "tags": [
       "game",
       "pw2"
@@ -1134,6 +1261,7 @@
     "name": "Misty Fey",
     "image": "misty",
     "gender": "female",
+    "characterId": "misty-fey",
     "tags": [
       "game",
       "pw1"
@@ -1143,6 +1271,7 @@
     "name": "Morgan Fey",
     "image": "morgan",
     "gender": "female",
+    "characterId": "morgan-fey",
     "tags": [
       "game",
       "pw2"
@@ -1152,6 +1281,7 @@
     "name": "Wendy Oldbag",
     "image": "oldbag",
     "gender": "female",
+    "characterId": "wendy-oldbag",
     "tags": [
       "game",
       "pw1"
@@ -1161,6 +1291,7 @@
     "name": "Wendy Oldbag",
     "image": "oldbag2",
     "gender": "female",
+    "characterId": "wendy-oldbag",
     "tags": [
       "game",
       "pw2"
@@ -1170,6 +1301,7 @@
     "name": "Wendy Oldbag",
     "image": "gkoldbag",
     "gender": "female",
+    "characterId": "wendy-oldbag",
     "tags": [
       "game",
       "me1"
@@ -1179,6 +1311,7 @@
     "name": "Pearl Fey",
     "image": "pearl",
     "gender": "female",
+    "characterId": "pearl-fey",
     "tags": [
       "game",
       "pw1",
@@ -1190,6 +1323,7 @@
     "name": "Penny Nichols",
     "image": "penny",
     "gender": "female",
+    "characterId": "penny-nichols",
     "tags": [
       "game",
       "pw1"
@@ -1199,6 +1333,7 @@
     "name": "Regina Berry",
     "image": "regina",
     "gender": "female",
+    "characterId": "regina-berry",
     "tags": [
       "game",
       "pw1",
@@ -1209,6 +1344,7 @@
     "name": "Sara Komori",
     "image": "sara",
     "gender": "female",
+    "characterId": "sara-komori",
     "tags": [
       "manga"
     ]
@@ -1217,6 +1353,7 @@
     "name": "Suzune Kazama",
     "image": "suzune",
     "gender": "female",
+    "characterId": "suzune-kazama",
     "tags": [
       "manga"
     ]
@@ -1225,6 +1362,7 @@
     "name": "Viola Cadaverini",
     "image": "urami",
     "gender": "female",
+    "characterId": "viola-cadaverini",
     "tags": [
       "game",
       "pw3"
@@ -1234,6 +1372,7 @@
     "name": "Valerie Hawthorne",
     "image": "yuki",
     "gender": "female",
+    "characterId": "valerie-hawthorne",
     "tags": [
       "game",
       "pw3"
@@ -1243,6 +1382,7 @@
     "name": "Olga Orly",
     "image": "masaka1",
     "gender": "female",
+    "characterId": "olga-orly",
     "tags": [
       "game",
       "aj1"
@@ -1252,6 +1392,7 @@
     "name": "Olga \"Quick Fingers\" Orly",
     "image": "masaka2",
     "gender": "female",
+    "characterId": "olga-orly",
     "tags": [
       "game",
       "aj1"
@@ -1261,6 +1402,7 @@
     "name": "Ema Skye",
     "image": "skye",
     "gender": "female",
+    "characterId": "ema-skye",
     "tags": [
       "game",
       "aj1"
@@ -1270,6 +1412,7 @@
     "name": "Ema Skye",
     "image": "gkema",
     "gender": "female",
+    "characterId": "ema-skye",
     "tags": [
       "game",
       "me1"
@@ -1279,6 +1422,7 @@
     "name": "Plum Kitaki",
     "image": "koume",
     "gender": "female",
+    "characterId": "plum-kitaki",
     "tags": [
       "game",
       "aj1"
@@ -1288,6 +1432,7 @@
     "name": "Alita Tiala",
     "image": "minami",
     "gender": "female",
+    "characterId": "alita-tiala",
     "tags": [
       "game",
       "aj1"
@@ -1297,6 +1442,7 @@
     "name": "Lamiroir",
     "image": "lamiroir",
     "gender": "female",
+    "characterId": "lamiroir",
     "tags": [
       "game",
       "aj1"
@@ -1306,6 +1452,7 @@
     "name": "Vera Misham",
     "image": "makoto",
     "gender": "female",
+    "characterId": "vera-misham",
     "tags": [
       "game",
       "aj1"
@@ -1315,6 +1462,7 @@
     "name": "Thalassa Gramarye",
     "image": "yuumi",
     "gender": "female",
+    "characterId": "thalassa-gramarye",
     "tags": [
       "game",
       "aj1"
@@ -1324,15 +1472,19 @@
     "name": "Trucy Wright",
     "image": "minuki",
     "gender": "female",
+    "characterId": "trucy-wright",
     "tags": [
       "game",
-      "aj1"
+      "aj1",
+      "aj2",
+      "aj3"
     ]
   },
   {
     "name": "Tanpopo Himegami",
     "image": "tanpopo",
     "gender": "female",
+    "characterId": "tanpopo-himegami",
     "tags": [
       "manga"
     ]
@@ -1341,6 +1493,7 @@
     "name": "Polly the Parrot",
     "image": "polly",
     "gender": "female",
+    "characterId": "polly-the-parrot",
     "tags": [
       "game",
       "pw1"
@@ -1350,6 +1503,7 @@
     "name": "Lauren \"Lolli\" Paups",
     "image": "gkhimeko",
     "gender": "female",
+    "characterId": "lauren-lolli-paups",
     "tags": [
       "game",
       "me1"
@@ -1359,6 +1513,7 @@
     "name": "Calisto Yew",
     "image": "gkhimiko",
     "gender": "female",
+    "characterId": "calisto-yew",
     "tags": [
       "game",
       "me1"
@@ -1368,6 +1523,7 @@
     "name": "Rhoda Teneiro",
     "image": "gkichiru",
     "gender": "female",
+    "characterId": "rhoda-teneiro",
     "tags": [
       "game",
       "me1"
@@ -1377,15 +1533,18 @@
     "name": "Kay Faraday",
     "image": "gkkay",
     "gender": "female",
+    "characterId": "kay-faraday",
     "tags": [
       "game",
-      "me1"
+      "me1",
+      "me2"
     ]
   },
   {
     "name": "Kay Faraday",
     "image": "lolikay",
     "gender": "female",
+    "characterId": "kay-faraday",
     "tags": [
       "me1"
     ]
@@ -1394,6 +1553,7 @@
     "name": "Shih-Na",
     "image": "gkshiina",
     "gender": "female",
+    "characterId": "shih-na",
     "tags": [
       "game",
       "me1"
@@ -1403,6 +1563,7 @@
     "name": "Cammy Meele",
     "image": "gkwakana",
     "gender": "female",
+    "characterId": "cammy-meele",
     "tags": [
       "game",
       "me1"
@@ -1412,6 +1573,7 @@
     "name": "Gregory Edgeworth",
     "image": "gkgregory",
     "gender": "male",
+    "characterId": "gregory-edgeworth",
     "tags": [
       "game",
       "me2"
@@ -1421,6 +1583,7 @@
     "name": "Di-Jun Wang",
     "image": "gkdijunwang",
     "gender": "male",
+    "characterId": "di-jun-wang",
     "tags": [
       "game",
       "me2"
@@ -1430,6 +1593,7 @@
     "name": "Tabby Lloyd",
     "image": "gk2tabby",
     "gender": "female",
+    "characterId": "tabby-lloyd",
     "tags": [
       "game",
       "me2"
@@ -1439,6 +1603,7 @@
     "name": "Bronco Knight",
     "image": "gk2bronco",
     "gender": "male",
+    "characterId": "bronco-knight",
     "tags": [
       "game",
       "me2"
@@ -1448,6 +1613,7 @@
     "name": "Bastian Rook",
     "image": "gk2bastian",
     "gender": "male",
+    "characterId": "bastian-rook",
     "tags": [
       "game",
       "me2"
@@ -1457,6 +1623,7 @@
     "name": "Fifi Laguarde",
     "image": "gk2fifi",
     "gender": "female",
+    "characterId": "fifi-laguarde",
     "tags": [
       "game",
       "me2"
@@ -1466,6 +1633,7 @@
     "name": "Simeon Saint",
     "image": "gk2simeon",
     "gender": "male",
+    "characterId": "simeon-saint",
     "tags": [
       "game",
       "me2"
@@ -1475,6 +1643,7 @@
     "name": "Rocco Carcerato",
     "image": "gk2rocco",
     "gender": "male",
+    "characterId": "rocco-carcerato",
     "tags": [
       "game",
       "me2"
@@ -1484,6 +1653,7 @@
     "name": "Bodhidharma Kanis",
     "image": "gk2bodhi",
     "gender": "male",
+    "characterId": "bodhidharma-kanis",
     "tags": [
       "game",
       "me2"
@@ -1493,6 +1663,7 @@
     "name": "Samson Tangaroa (young)",
     "image": "gk2samsonyoung",
     "gender": "male",
+    "characterId": "samson-tangaroa",
     "tags": [
       "game",
       "me2"
@@ -1502,6 +1673,7 @@
     "name": "Samson Tangaroa (old)",
     "image": "gk2samsonold",
     "gender": "male",
+    "characterId": "samson-tangaroa",
     "tags": [
       "game",
       "me2"
@@ -1511,6 +1683,7 @@
     "name": "Judy Bound",
     "image": "gk2judy",
     "gender": "female",
+    "characterId": "judy-bound",
     "tags": [
       "game",
       "me2"
@@ -1520,6 +1693,7 @@
     "name": "Delicia Scone",
     "image": "gk2delicia",
     "gender": "female",
+    "characterId": "delicia-scone",
     "tags": [
       "game",
       "me2"
@@ -1529,6 +1703,7 @@
     "name": "Carmelo Gusto (young)",
     "image": "gk2carmeloyoung",
     "gender": "male",
+    "characterId": "carmelo-gusto",
     "tags": [
       "game",
       "me2"
@@ -1538,6 +1713,7 @@
     "name": "Carmelo Gusto (old)",
     "image": "gk2carmeloold",
     "gender": "male",
+    "characterId": "carmelo-gusto",
     "tags": [
       "game",
       "me2"
@@ -1547,6 +1723,7 @@
     "name": "Artie Frost",
     "image": "gk2artie",
     "gender": "male",
+    "characterId": "artie-frost",
     "tags": [
       "game",
       "me2"
@@ -1556,6 +1733,7 @@
     "name": "Florence Niedler",
     "image": "gk2florence",
     "gender": "female",
+    "characterId": "florence-niedler",
     "tags": [
       "game",
       "me2"
@@ -1565,6 +1743,7 @@
     "name": "Hilda Hertz",
     "image": "gk2hilda",
     "gender": "female",
+    "characterId": "hilda-hertz",
     "tags": [
       "game",
       "me2"
@@ -1574,6 +1753,7 @@
     "name": "Excelsius Winner",
     "image": "gk2excel",
     "gender": "male",
+    "characterId": "excelsius-winner",
     "tags": [
       "game",
       "me2"
@@ -1583,6 +1763,7 @@
     "name": "Rosie Ringer",
     "image": "gk2rosie",
     "gender": "female",
+    "characterId": "rosie-ringer",
     "tags": [
       "game",
       "me2"
@@ -1592,6 +1773,7 @@
     "name": "Shaun Fenn",
     "image": "gk2shaun",
     "gender": "male",
+    "characterId": "shaun-fenn",
     "tags": [
       "game",
       "me2"
@@ -1601,6 +1783,7 @@
     "name": "Alf Aldown",
     "image": "gk2alf",
     "gender": "male",
+    "characterId": "alf-aldown",
     "tags": [
       "game",
       "me2"
@@ -1610,6 +1793,7 @@
     "name": "Athena Cykes",
     "image": "aj2athena",
     "gender": "female",
+    "characterId": "athena-cykes",
     "tags": [
       "game",
       "me2"
@@ -1619,6 +1803,7 @@
     "name": "Simon Blackquill",
     "image": "aj2simon",
     "gender": "male",
+    "characterId": "simon-blackquill",
     "tags": [
       "game",
       "aj2"
@@ -1628,6 +1813,7 @@
     "name": "Bobby Fulbright",
     "image": "aj2bobby",
     "gender": "male",
+    "characterId": "bobby-fulbright",
     "tags": [
       "game",
       "aj2"
@@ -1637,6 +1823,7 @@
     "name": "Gaspen Payne",
     "image": "aj2gaspen",
     "gender": "male",
+    "characterId": "gaspen-payne",
     "tags": [
       "game",
       "aj2"
@@ -1646,6 +1833,7 @@
     "name": "Juniper Woods",
     "image": "aj2juniper",
     "gender": "female",
+    "characterId": "juniper-woods",
     "tags": [
       "game",
       "aj2"
@@ -1655,6 +1843,7 @@
     "name": "Ted Tonate",
     "image": "aj2ted",
     "gender": "male",
+    "characterId": "ted-tonate",
     "tags": [
       "game",
       "aj2"
@@ -1664,6 +1853,7 @@
     "name": "Candice Arme",
     "image": "aj2candice",
     "gender": "female",
+    "characterId": "candice-arme",
     "tags": [
       "game",
       "aj2"
@@ -1673,6 +1863,7 @@
     "name": "Jinxie Tenma",
     "image": "aj2jinxie",
     "gender": "female",
+    "characterId": "jinxie-tenma",
     "tags": [
       "game",
       "aj2"
@@ -1682,6 +1873,7 @@
     "name": "Damian Tenma",
     "image": "aj2damian",
     "gender": "male",
+    "characterId": "damian-tenma",
     "tags": [
       "game",
       "aj2"
@@ -1691,6 +1883,7 @@
     "name": "The Great Nine-Tails",
     "image": "aj2kyuubi",
     "gender": "male",
+    "characterId": "the-great-nine-tails",
     "tags": [
       "game",
       "aj2"
@@ -1700,6 +1893,7 @@
     "name": "Rex Kyubi",
     "image": "aj2rex",
     "gender": "male",
+    "characterId": "rex-kyubi",
     "tags": [
       "game",
       "aj2"
@@ -1709,6 +1903,7 @@
     "name": "Phineas Filtch",
     "image": "aj2phineas",
     "gender": "male",
+    "characterId": "phineas-filtch",
     "tags": [
       "game",
       "aj2"
@@ -1718,6 +1913,7 @@
     "name": "Florent L'Belle",
     "image": "aj2florent",
     "gender": "male",
+    "characterId": "florent-lbelle",
     "tags": [
       "game",
       "aj2"
@@ -1727,6 +1923,7 @@
     "name": "Aristotle Means",
     "image": "aj2aristotle",
     "gender": "male",
+    "characterId": "aristotle-means",
     "tags": [
       "game",
       "aj2"
@@ -1736,6 +1933,7 @@
     "name": "Constance Courte",
     "image": "aj2constance",
     "gender": "female",
+    "characterId": "constance-courte",
     "tags": [
       "game",
       "aj2"
@@ -1745,6 +1943,7 @@
     "name": "Hugh O'Conner",
     "image": "aj2hugh",
     "gender": "male",
+    "characterId": "hugh-oconner",
     "tags": [
       "game",
       "aj2"
@@ -1754,6 +1953,7 @@
     "name": "Robin Newman",
     "image": "aj2robinf",
     "gender": "female",
+    "characterId": "robin-newman",
     "tags": [
       "game",
       "aj2"
@@ -1763,6 +1963,7 @@
     "name": "Robin Newman",
     "image": "aj2robinm",
     "gender": "male",
+    "characterId": "robin-newman",
     "tags": [
       "game",
       "aj2"
@@ -1772,6 +1973,7 @@
     "name": "Miriam Scuttlebutt",
     "image": "aj2miriam",
     "gender": "female",
+    "characterId": "miriam-scuttlebutt",
     "tags": [
       "game",
       "aj2"
@@ -1781,6 +1983,7 @@
     "name": "Solomon Starbuck",
     "image": "aj2solomon",
     "gender": "male",
+    "characterId": "solomon-starbuck",
     "tags": [
       "game",
       "aj2"
@@ -1790,6 +1993,7 @@
     "name": "Clay Terran",
     "image": "aj2clay",
     "gender": "male",
+    "characterId": "clay-terran",
     "tags": [
       "game",
       "aj2"
@@ -1799,6 +2003,7 @@
     "name": "Yuri Cosmos",
     "image": "aj2yuri",
     "gender": "male",
+    "characterId": "yuri-cosmos",
     "tags": [
       "game",
       "aj2"
@@ -1808,6 +2013,7 @@
     "name": "Aura Blackquill",
     "image": "aj2aura",
     "gender": "female",
+    "characterId": "aura-blackquill",
     "tags": [
       "game",
       "aj2"
@@ -1817,6 +2023,7 @@
     "name": "Clonco",
     "image": "aj2clonco",
     "gender": "male",
+    "characterId": "clonco",
     "tags": [
       "game",
       "aj2"
@@ -1826,6 +2033,7 @@
     "name": "Ponco",
     "image": "aj2ponco",
     "gender": "female",
+    "characterId": "ponco",
     "tags": [
       "game",
       "aj2"
@@ -1835,6 +2043,7 @@
     "name": "Metys Cykes",
     "image": "aj2metys",
     "gender": "female",
+    "characterId": "metys-cykes",
     "tags": [
       "game",
       "aj2"
@@ -1844,6 +2053,7 @@
     "name": "Sasha Buckler",
     "image": "aj2sasha",
     "gender": "female",
+    "characterId": "sasha-buckler",
     "tags": [
       "game",
       "aj2"
@@ -1853,6 +2063,7 @@
     "name": "Ora \"Orla\" Shipley",
     "image": "aj2orla",
     "gender": "female",
+    "characterId": "ora-shipley",
     "tags": [
       "game",
       "aj2"
@@ -1862,6 +2073,7 @@
     "name": "Jack Shipley",
     "image": "aj2jack",
     "gender": "male",
+    "characterId": "jack-shipley",
     "tags": [
       "game",
       "aj2"
@@ -1871,6 +2083,7 @@
     "name": "Norma DePlume",
     "image": "aj2norma",
     "gender": "female",
+    "characterId": "norma-deplume",
     "tags": [
       "game",
       "aj2"
@@ -1880,6 +2093,7 @@
     "name": "Marlon Rimes",
     "image": "aj2marlon",
     "gender": "male",
+    "characterId": "marlon-rimes",
     "tags": [
       "game",
       "aj2"
@@ -1889,6 +2103,7 @@
     "name": "Rifle",
     "image": "aj2rifle",
     "gender": "female",
+    "characterId": "rifle",
     "tags": [
       "game",
       "aj2"
@@ -1898,6 +2113,7 @@
     "name": "Herman Crab",
     "image": "aj2herman",
     "gender": "male",
+    "characterId": "herman-crab",
     "tags": [
       "game",
       "aj2"
@@ -1907,9 +2123,102 @@
     "name": "Azura Summers",
     "image": "aj2azura",
     "gender": "female",
+    "characterId": "azura-summers",
     "tags": [
       "game",
       "aj2"
+    ]
+  },
+  {
+    "name": "Maya Fey",
+    "image": "aj3maya",
+    "gender": "female",
+    "characterId": "maya-fey",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Phoenix Wright",
+    "image": "aj2nick",
+    "gender": "male",
+    "characterId": "phoenix-wright",
+    "tags": [
+      "game",
+      "aj2",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Rayfa Padma Khura'in",
+    "image": "aj3rayfa",
+    "gender": "female",
+    "characterId": "rayfa-padma-khurain",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Nahyuta Sahdmadhi",
+    "image": "aj3nahyuta",
+    "gender": "male",
+    "characterId": "nahyuta-sahdmadhi",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Ahlbi Ur'gaid",
+    "image": "aj3ahlbi",
+    "gender": "male",
+    "characterId": "ahlbi-urgaid",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Shah'do",
+    "image": "aj3shahdo",
+    "gender": "male",
+    "characterId": "shahdo",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Pearl Fey",
+    "image": "aj3pearl",
+    "gender": "female",
+    "characterId": "pearl-fey",
+    "tags": [
+      "game",
+      "aj2",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Pees'lubn Andistan'dhin",
+    "image": "aj3pees",
+    "gender": "male",
+    "characterId": "pees-lubn-andistan-dhin",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Paht Rol",
+    "image": "aj3paht",
+    "gender": "male",
+    "characterId": "paht-rol",
+    "tags": [
+      "game",
+      "aj3"
     ]
   }
 ]

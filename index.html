@@ -28,31 +28,23 @@
     </div>
     <div class="controls">
       <label for="pairingSelector">Select roster to pick from:</label>
-      <select id="pairingSelector">
+      <select id="pairingSelector" onChange="generatePairing()">
         <!-- All Characters -->
         <option value="all-normal">Everyone - M/F</option>
         <option value="all-MM">Everyone - M/M</option>
         <option value="all-FF">Everyone - F/F</option>
         <!-- Phoenix Wwright 1 -->
-        <option value="pw1-normal">PW1 - M/F</option>
-        <option value="pw1-MM">PW1 - M/M</option>
-        <option value="pw1-FF">PW1 - F/F</option>
+        <option value="pw1-normal">Phoenix Wright - M/F</option>
+        <option value="pw1-MM">Phoenix Wright - M/M</option>
+        <option value="pw1-FF">Phoenix Wright - F/F</option>
         <!-- Phoenix Wwright 2 -->
-        <option value="pw2-normal">PW2 - M/F</option>
-        <option value="pw2-MM">PW2 - M/M</option>
-        <option value="pw2-FF">PW2 - F/F</option>
+        <option value="pw2-normal">Justice for All - M/F</option>
+        <option value="pw2-MM">Justice for All - M/M</option>
+        <option value="pw2-FF">Justice for All - F/F</option>
         <!-- Phoenix Wright 3 -->
-        <option value="pw3-normal">PW3 - M/F</option>
-        <option value="pw3-MM">PW3 - M/M</option>
-        <option value="pw3-FF">PW3 - F/F</option>
-        <!-- Investigations 1 -->
-        <option value="me1-normal">Investigations 1 - M/F</option>
-        <option value="me1-MM">Investigations 1 - M/M</option>
-        <option value="me1-FF">Investigations 1 - F/F</option>
-        <!-- Investigations 2 -->
-        <option value="me2-normal">Investigations 2 - M/F</option>
-        <option value="me2-MM">Investigations 2 - M/M</option>
-        <option value="me2-FF">Investigations 2 - F/F</option>
+        <option value="pw3-normal">Trials and Tribulations - M/F</option>
+        <option value="pw3-MM">Trials and Tribulations - M/M</option>
+        <option value="pw3-FF">Trials and Tribulations - F/F</option>
         <!-- Apollo Justice 1 -->
         <option value="aj1-normal">Apollo Justice - M/F</option>
         <option value="aj1-MM">Apollo Justice - M/M</option>
@@ -61,6 +53,18 @@
         <option value="aj2-normal">Dual Destinies - M/F</option>
         <option value="aj2-MM">Dual Destinies - M/M</option>
         <option value="aj2-FF">Dual Destinies - F/F</option>
+        <!-- Apollo Justice 3 -->
+        <option value="aj3-normal">Spirit of Justice - M/F</option>
+        <option value="aj3-MM">Spirit of Justice - M/M</option>
+        <option value="aj3-FF">Spirit of Justice - F/F</option>
+        <!-- Investigations 1 -->
+        <option value="me1-normal">Investigations 1 - M/F</option>
+        <option value="me1-MM">Investigations 1 - M/M</option>
+        <option value="me1-FF">Investigations 1 - F/F</option>
+        <!-- Investigations 2 -->
+        <option value="me2-normal">Investigations 2 - M/F</option>
+        <option value="me2-MM">Investigations 2 - M/M</option>
+        <option value="me2-FF">Investigations 2 - F/F</option>
         <!-- All Games -->
         <option value="game-normal">All Games - M/F</option>
         <option value="game-MM">All Games - M/M</option>

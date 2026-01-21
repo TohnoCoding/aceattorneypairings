@@ -70,9 +70,21 @@ function getPairing(subgroup, mode = MODES.NORMAL) {
       return null;
     }
     
+    let male = getRandomChar(males);
+    let female;
+    
+    // For "all" or "game" subgroups, avoid pairing different versions of the same character
+    if (subgroup === "all" || subgroup === "game") {
+      do {
+        female = getRandomChar(females);
+      } while (female.characterId === male.characterId);
+    } else {
+      female = getRandomChar(females);
+    }
+    
     return {
-      male: getRandomChar(males),
-      female: getRandomChar(females)
+      male,
+      female
     };
   }
       
@@ -87,10 +99,14 @@ function getPairing(subgroup, mode = MODES.NORMAL) {
     let male1 = getRandomChar(males);
     let male2;
     
-    // Ensure male2 is different from male1
+    // Ensure male2 is different from male1 (by image)
+    // Also avoid different versions of the same character for "all" and "game" subgroups
     do {
       male2 = getRandomChar(males);
-    } while (male2.image === male1.image);
+      attempts++;
+    } while ((male2.image === male1.image || 
+             ((subgroup === "all" || subgroup === "game") &&
+             male2.characterId === male1.characterId)));
     
     return { male1, male2 };
   }
@@ -99,21 +115,24 @@ function getPairing(subgroup, mode = MODES.NORMAL) {
     const females = subgroupChars.filter(c => c.gender === "female");
     
     if (females.length < 2) {
-      console.warn(`Not enough females for homo pairing in subgroup: ${subgroup}`);
+      console.warn(`Not enough females for same-sex pairing in subgroup: ${subgroup}`);
       return null;
     }
     
     let female1 = getRandomChar(females);
     let female2;
-    
-    // Ensure female2 is different from female1
+        
+    // Ensure female2 is different from female1 (by image)
+    // Also avoid different versions of the same character for "all" and "game" subgroups
     do {
       female2 = getRandomChar(females);
-    } while (female2.image === female1.image);
+      attempts++;
+    } while ((female2.image === female1.image || 
+             ((subgroup === "all" || subgroup === "game") && 
+             female2.characterId === female1.characterId)));
     
     return { female1, female2 };
-  }
-  
+  }  
   console.warn(`Invalid pairing mode: ${mode}`);
   return null;
 }
