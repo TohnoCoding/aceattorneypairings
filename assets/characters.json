@@ -1806,7 +1806,8 @@
     "characterId": "simon-blackquill",
     "tags": [
       "game",
-      "aj2"
+      "aj2",
+      "aj3"
     ]
   },
   {
@@ -2220,5 +2221,287 @@
       "game",
       "aj3"
     ]
+  },
+  {
+    "name": "Bonny de Famme",
+    "image": "aj3bonny",
+    "gender": "female",
+    "characterId": "bonny-de-famme",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Betty de Famme",
+    "image": "aj3betty",
+    "gender": "female",
+    "characterId": "betty-de-famme",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Roger Retinz",
+    "image": "aj3roger",
+    "gender": "male",
+    "characterId": "roger-retinz",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Manov Mistree",
+    "image": "aj3manov",
+    "gender": "male",
+    "characterId": "manov-mistree",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Tahrust Inmee",
+    "image": "aj3tahrust",
+    "gender": "male",
+    "characterId": "tahrust-inmee",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Beh'leeb Inmee",
+    "image": "aj3behleeb",
+    "gender": "female",
+    "characterId": "behleeb-inmee",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "A'nohn Ihmus",
+    "image": "aj3anohn",
+    "gender": "male",
+    "characterId": "datz-arebal",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Datz Are'bal",
+    "image": "aj3datz",
+    "gender": "male",
+    "characterId": "datz-arebal",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Puhray Zeh'lot",
+    "image": "aj3puhray",
+    "gender": "male",
+    "characterId": "puhray-zehlot",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Bucky Whet",
+    "image": "aj3bucky",
+    "gender": "male",
+    "characterId": "bucky-whet",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Geiru Toneido",
+    "image": "aj3geiru",
+    "gender": "female",
+    "characterId": "geiru-toneido",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Uendo Toneido",
+    "image": "aj3uendo",
+    "gender": "male",
+    "characterId": "uendo-toneido",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Taifu Toneido",
+    "image": "aj3taifu",
+    "gender": "male",
+    "characterId": "taifu-toneido",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Dhurke Sahdmadhi",
+    "image": "aj3dhurke",
+    "gender": "male",
+    "characterId": "dhurke-sahdmadhi",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Paul Atishon",
+    "image": "aj3paul",
+    "gender": "male",
+    "characterId": "paul-atishon",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Sgt. Buff",
+    "image": "aj3heli",
+    "gender": "female",
+    "characterId": "armie-buff",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Armie Buff",
+    "image": "aj3armie",
+    "gender": "female",
+    "characterId": "armie-buff",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Archie Buff",
+    "image": "aj3archie",
+    "gender": "male",
+    "characterId": "archie-buff",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Miles Edgeworth",
+    "image": "aj3edgey",
+    "gender": "male",
+    "characterId": "miles-edgeworth",
+    "tags": [
+      "game",
+      "aj2",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Eddie Fender (young)",
+    "image": "gk2eddieyoung",
+    "gender": "male",
+    "characterId": "eddie-fender",
+    "tags": [
+      "game",
+      "gk2"
+    ]
+  },
+  {
+    "name": "Eddie Fender (old)",
+    "image": "gk2eddieold",
+    "gender": "male",
+    "characterId": "eddie-fender",
+    "tags": [
+      "game",
+      "gk2"
+    ]
+  },
+  {
+    "name": "Verity Gavèlle",
+    "image": "gk2verity",
+    "gender": "female",
+    "characterId": "verity-gavelle",
+    "tags": [
+      "game",
+      "gk2"
+    ]
+  },
+  {
+    "name": "Eustace Winner",
+    "image": "gk2dumbass",
+    "gender": "male",
+    "characterId": "eustace-winner",
+    "tags": [
+      "game",
+      "gk2"
+    ]
+  },
+  {
+    "name": "Ga'ran Sigatar Khura'in",
+    "image": "aj3garan",
+    "gender": "female",
+    "characterId": "garan-sigatar-khura-in",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Amara Sigatar Khura'in",
+    "image": "aj3amara",
+    "gender": "female",
+    "characterId": "nayna",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Nayna",
+    "image": "aj3verity",
+    "gender": "female",
+    "characterId": "verity-gavelle",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Inga Karkhuul Khura'in",
+    "image": "aj3inga",
+    "gender": "male",
+    "characterId": "inga-karkhuul-khura-in",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Larry Butz",
+    "image": "aj3larry",
+    "gender": "male",
+    "characterId": "larry-butz",
+    "tags": [
+      "game",
+      "aj3"
+    ]
   }
 ]
+
