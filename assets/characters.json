@@ -2475,9 +2475,9 @@
   },
   {
     "name": "Nayna",
-    "image": "aj3verity",
+    "image": "aj3nayna",
     "gender": "female",
-    "characterId": "verity-gavelle",
+    "characterId": "nayna",
     "tags": [
       "game",
       "aj3"
@@ -2498,6 +2498,56 @@
     "image": "aj3larry",
     "gender": "male",
     "characterId": "larry-butz",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Sorin Sprocket",
+    "image": "aj3sorin",
+    "gender": "male",
+    "characterId": "sorin-sprocket",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Pierce Nichody",
+    "image": "aj3pierce",
+    "gender": "male",
+    "characterId": "pierce-nichody",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Dumas Gloomsbury",
+    "image": "aj3dumas",
+    "gender": "male",
+    "characterId": "dumas-gloomsbury",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Ellen Wyatt",
+    "image": "aj3ellen",
+    "gender": "female",
+    "characterId": "ellen-wyatt",
+    "tags": [
+      "game",
+      "aj3"
+    ]
+  },
+  {
+    "name": "Selena Sprocket",
+    "image": "aj3selena",
+    "gender": "female",
+    "characterId": "selena-sprocket",
     "tags": [
       "game",
       "aj3"
