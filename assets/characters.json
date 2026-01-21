@@ -1407,5 +1407,230 @@
       "game",
       "me1"
     ]
+  },
+  {
+    "name": "Gregory Edgeworth",
+    "image": "gkgregory",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Di-Jun Wang",
+    "image": "gkdijunwang",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Tabby Lloyd",
+    "image": "gk2tabby",
+    "gender": "female",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Bronco Knight",
+    "image": "gk2bronco",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Bastian Rook",
+    "image": "gk2bastian",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Fifi Laguarde",
+    "image": "gk2fifi",
+    "gender": "female",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Simeon Saint",
+    "image": "gk2simeon",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Rocco Carcerato",
+    "image": "gk2rocco",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Bodhidharma Kanis",
+    "image": "gk2bodhi",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Samson Tangaroa (young)",
+    "image": "gk2samsonyoung",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Samson Tangaroa (old)",
+    "image": "gk2samsonold",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Judy Bound",
+    "image": "gk2judy",
+    "gender": "female",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Delicia Scone",
+    "image": "gk2delicia",
+    "gender": "female",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Carmelo Gusto (young)",
+    "image": "gk2carmeloyoung",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Carmelo Gusto (old)",
+    "image": "gk2carmeloold",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Artie Frost",
+    "image": "gk2artie",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Florence Niedler",
+    "image": "gk2florence",
+    "gender": "female",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Hilda Hertz",
+    "image": "gk2hilda",
+    "gender": "female",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Excelsius Winner",
+    "image": "gk2excel",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Rosie Ringer",
+    "image": "gk2rosie",
+    "gender": "female",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Shaun Fenn",
+    "image": "gk2shaun",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Alf Aldown",
+    "image": "gk2alf",
+    "gender": "male",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Athena Cykes",
+    "image": "aj2athena",
+    "gender": "female",
+    "tags": [
+      "game",
+      "me2"
+    ]
+  },
+  {
+    "name": "Simon Blackquill",
+    "image": "aj2simon",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Bobby Fulbright",
+    "image": "aj2bobby",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
   }
 ]
