@@ -103,7 +103,6 @@ function getPairing(subgroup, mode = MODES.NORMAL) {
     // Also avoid different versions of the same character for "all" and "game" subgroups
     do {
       male2 = getRandomChar(males);
-      attempts++;
     } while ((male2.image === male1.image || 
              ((subgroup === "all" || subgroup === "game") &&
              male2.characterId === male1.characterId)));
@@ -126,7 +125,6 @@ function getPairing(subgroup, mode = MODES.NORMAL) {
     // Also avoid different versions of the same character for "all" and "game" subgroups
     do {
       female2 = getRandomChar(females);
-      attempts++;
     } while ((female2.image === female1.image || 
              ((subgroup === "all" || subgroup === "game") && 
              female2.characterId === female1.characterId)));
