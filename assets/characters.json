@@ -1632,5 +1632,149 @@
       "game",
       "aj2"
     ]
+  },
+  {
+    "name": "Gaspen Payne",
+    "image": "aj2gaspen",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Juniper Woods",
+    "image": "aj2juniper",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Ted Tonate",
+    "image": "aj2ted",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Candice Arme",
+    "image": "aj2candice",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Jinxie Tenma",
+    "image": "aj2jinxie",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Damian Tenma",
+    "image": "aj2damian",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "The Great Nine-Tails",
+    "image": "aj2kyuubi",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Rex Kyubi",
+    "image": "aj2rex",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Phineas Filtch",
+    "image": "aj2phineas",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Florent L'Belle",
+    "image": "aj2florent",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Aristotle Means",
+    "image": "aj2aristotle",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Constance Courte",
+    "image": "aj2constance",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Hugh O'Conner",
+    "image": "aj2hugh",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Robin Newman",
+    "image": "aj2robinf",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Robin Newman",
+    "image": "aj2robinm",
+    "gender": "male",
+    "tags": [
+      "game",
+      "aj2"
+    ]
+  },
+  {
+    "name": "Miriam Scuttlebutt",
+    "image": "aj2miriam",
+    "gender": "female",
+    "tags": [
+      "game",
+      "aj2"
+    ]
   }
 ]
