@@ -70,21 +70,23 @@ function getPairing(subgroup, mode = MODES.NORMAL) {
       return null;
     }
     
-    let male = getRandomChar(males);
-    let female;
+    let r = Math.round(Math.random());
+    let genders = [males, females];
+    let char1 = getRandomChar(genders[r]);
+    let char2;
     
     // For "all" or "game" subgroups, avoid pairing different versions of the same character
     if (subgroup === "all" || subgroup === "game") {
       do {
-        female = getRandomChar(females);
-      } while (female.characterId === male.characterId);
+        char2 = getRandomChar(genders[1 - r]);
+      } while (char2.characterId === char1.characterId);
     } else {
-      female = getRandomChar(females);
+      char2 = getRandomChar(genders[1 - r]);
     }
     
     return {
-      male,
-      female
+      male: char1,
+      female: char2
     };
   }
       
