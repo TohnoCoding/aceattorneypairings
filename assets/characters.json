@@ -2553,5 +2553,75 @@
       "game",
       "aj3"
     ]
+  },
+  {
+    "name": "Ryuunosuke Naruhodou",
+    "image": "dairyuu",
+    "gender": "male",
+    "characterId": "ryuunosuke-naruhodou",
+    "tags": [
+      "game",
+      "dai"
+    ]
+  },
+  {
+    "name": "Susato Mikotoba",
+    "image": "daisusato",
+    "gender": "female",
+    "characterId": "susato-mikotoba",
+    "tags": [
+      "game",
+      "dai"
+    ]
+  },
+  {
+    "name": "Kazuma Asougi",
+    "image": "daikazuma",
+    "gender": "male",
+    "characterId": "kazuma-asougi",
+    "tags": [
+      "game",
+      "dai"
+    ]
+  },
+  {
+    "name": "Herlock Sholmes",
+    "image": "daisholmes",
+    "gender": "male",
+    "characterId": "herlock-sholmes",
+    "tags": [
+      "game",
+      "dai"
+    ]
+  },
+  {
+    "name": "Iris Wilson",
+    "image": "daiwatson",
+    "gender": "female",
+    "characterId": "iris-wilson",
+    "tags": [
+      "game",
+      "dai"
+    ]
+  },
+  {
+    "name": "Barok van Zieks",
+    "image": "daibarok",
+    "gender": "male",
+    "characterId": "barok-van-zieks",
+    "tags": [
+      "game",
+      "dai"
+    ]
+  },
+  {
+    "name": "Taketsuchi Auchi",
+    "image": "daipayne",
+    "gender": "male",
+    "characterId": "taketsuchi-auchi",
+    "tags": [
+      "game",
+      "dai"
+    ]
   }
 ]
