@@ -85,8 +85,8 @@ function getPairing(subgroup, mode = MODES.NORMAL) {
     }
     
     return {
-      male: char1,
-      female: char2
+      first: char1,
+      second: char2
     };
   }
       
@@ -176,10 +176,10 @@ function generatePairing() {
 
   // Map characters to display based on pairing mode
   let char1, char2;
-  
+
   if (finalMode === MODES.NORMAL) {
-    char1 = pairing.male;
-    char2 = pairing.female;
+    char1 = pairing.first;
+    char2 = pairing.second;
   } else if (finalMode === MODES.MM) {
     char1 = pairing.male1;
     char2 = pairing.male2;
