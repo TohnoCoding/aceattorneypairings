@@ -1581,7 +1581,7 @@
   },
   {
     "name": "Di-Jun Wang",
-    "image": "gkdijunwang",
+    "image": "gk2dijunwang",
     "gender": "male",
     "characterId": "di-jun-wang",
     "tags": [
@@ -2560,6 +2560,7 @@
     "gender": "male",
     "characterId": "ryuunosuke-naruhodou",
     "tags": [
+      "inactive",
       "game",
       "dai"
     ]
@@ -2570,6 +2571,7 @@
     "gender": "female",
     "characterId": "susato-mikotoba",
     "tags": [
+      "inactive",
       "game",
       "dai"
     ]
@@ -2580,6 +2582,7 @@
     "gender": "male",
     "characterId": "kazuma-asougi",
     "tags": [
+      "inactive",
       "game",
       "dai"
     ]
@@ -2590,6 +2593,7 @@
     "gender": "male",
     "characterId": "herlock-sholmes",
     "tags": [
+      "inactive",
       "game",
       "dai"
     ]
@@ -2600,6 +2604,7 @@
     "gender": "female",
     "characterId": "iris-wilson",
     "tags": [
+      "inactive",
       "game",
       "dai"
     ]
@@ -2610,6 +2615,7 @@
     "gender": "male",
     "characterId": "barok-van-zieks",
     "tags": [
+      "inactive",
       "game",
       "dai"
     ]
@@ -2620,6 +2626,7 @@
     "gender": "male",
     "characterId": "taketsuchi-auchi",
     "tags": [
+      "inactive",
       "game",
       "dai"
     ]

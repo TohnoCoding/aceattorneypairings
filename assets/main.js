@@ -33,8 +33,9 @@ async function loadCharacters() {
  * @returns {array} Filtered character array
  */
 function getCharsByTag(tag = null) {
-  if(tag === null) return characters;
-  return characters.filter(char => char.tags.includes(tag));
+  let filtered = characters.filter(char => !char.tags.includes("inactive"));
+  if(tag === null) return filtered;
+  return filtered.filter(char => char.tags.includes(tag));
 }
 
 /**
